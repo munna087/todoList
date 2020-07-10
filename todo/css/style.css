@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.todoDeleteButton {
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+    padding: 5px
+}
